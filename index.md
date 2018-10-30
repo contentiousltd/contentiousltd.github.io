@@ -1,5 +1,5 @@
 ---
-title: Contentious voice, tone and style 
+title: Contentious style 
 layout: doc
 info: Who we are, in words, pictures, design and code.
 nav: false
