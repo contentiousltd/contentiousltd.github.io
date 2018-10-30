@@ -22,15 +22,16 @@ destination: _site          ## Output folder
 ## Style Guide Shell Settings
 
 ## These settings are used in when generating the style guide shell
-sg_title: Jekyll Style Guide
-sg_version: 2.0
-sg_keywords: jekyll, style guide, playbook, design, code 
-sg_author: Matthew Elsom
-sg_description: This Jekyll Style Guide maintains design and code standards and documentation for a digital user interface.
+sg_title: Contentious voice, tone and style
+sg_version: 1.0
+sg_keywords: contentious, style guide, playbook, design 
+sg_author: Contentious
+sg_description: This style guide covers content, design and code for all Contentious content.
 sg_language: en
 sg_styles: /styleguide/css/styleguide.css
 sg_favicon: /styleguide/branding/favicon.ico
-sg_ga: UA-19247091-8      ## Analytics Tracking
+sg_ga: UA-152963-24      ## Analytics Tracking
+
 
 ## Generates Style Guide Shell Styles
 ## Enable to change the style guide shell stylesheet.
