@@ -1,11 +1,11 @@
 ---
-title: Overview 
+title: Contentious voice, tone and style 
 layout: doc
-info: Welcome to the Jekyll Style Guide.
+info: Who we are, in words, pictures, design and code.
 nav: false
 ---
 
-<h1>Contentious voice, tone and style</h1>
+<h1>Our style guide</h1>
 
 The Contentious voice, tone and style is our organisational personality, it's how we communicate with the outside world, it's our behaviour and it's our clothes.
 
