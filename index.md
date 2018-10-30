@@ -5,30 +5,13 @@ info: Welcome to the Jekyll Style Guide.
 nav: false
 ---
 
-<h1>👋 Hi! </h1>
+<h1>Contentious voice, tone and style</h1>
 
-My name's [Matthew](https://matthewelsom.com), and I built this [Jekyll-based](http://jekyllrb.com/) tool that you can use to generate and document product or system user interface (UI) patterns in a simple [Style Guide](https://jekyllstyleguide.com).
+The Contentious voice, tone and style is our organisational personality, it's how we communicate with the outside world, it's our behaviour and it's our clothes.
 
+## Technical stuff
 
-## Why?
-
-There are a lot of really great style guide methods, tools and [examples](http://styleguides.io) out there... but, I struggled to find one that was:
-
-- easy and quick to use,
-- simple to maintain,
-- a match for my current workflow,
-- flexible enough to use on a wide variety of projects.
-
-## Requirements
-
-I decided that the following requirements would meet my needs: 
-
-- Use only [Jekyll](https://jekyll.rb) as a pre-requisit
-- Use HMTL/CSS/JS to build a web component, template, etc. (I called these 'patterns')
-- Track the 'maturity' of a pattern - i.e. is it ready to use, or not?
-- Automatically add all patterns into a 'Roadmap'
-- Enable simple documentation for developers, designers and product owners to use
-- Provide a style guide container or 'shell' that is unobtrusive and easy to visually customize
+This guide is built using a [Jekyll-based](http://jekyllrb.com/) open-source tool called the [Jekyll style guide](https://jekyllstyleguide.com).
 
 
 ## Help
