@@ -22,7 +22,7 @@ destination: _site          ## Output folder
 ## Style Guide Shell Settings
 
 ## These settings are used in when generating the style guide shell
-sg_title: Contentious voice, tone and style
+sg_title: Contentious style
 sg_version: 1.0
 sg_keywords: contentious, style guide, playbook, design 
 sg_author: Contentious
@@ -35,9 +35,9 @@ sg_ga: UA-152963-24      ## Analytics Tracking
 
 ## Generates Style Guide Shell Styles
 ## Enable to change the style guide shell stylesheet.
-#sass: 
-#  sass_dir: styleguide/_scss
-#  style: :compressed
+sass: 
+  sass_dir: styleguide/_scss
+  style: :compressed
 
 
 ###################################
